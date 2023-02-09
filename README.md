@@ -6,8 +6,8 @@ Overview
 The Factory Method design pattern is one of the twenty-three well-known design patterns that describe how to solve recurring design problems to design flexible and reusable object-oriented software, that is, objects that are easier to implement, change, test, and reuse.
 
 The Factory Method design pattern solves problems like:
-  How can an object be created so that subclasses can redefine which class to instantiate?
-  How can a class defer instantiation to subclasses?
+  - How can an object be created so that subclasses can redefine which class to instantiate?
+  - How can a class defer instantiation to subclasses?
   - George Washington
   * John Adams
   + Thomas Jefferson
