@@ -1,4 +1,5 @@
-To visit my Website please visit [Tauheed's Home]([https://www.tauheed.us](https://sites.google.com/site/tauheedresearch)).
+To visit my Website please visit [Tauheed's Home](https://www.tauheed.us](https://sites.google.com/site/tauheedresearch).
+
 
 # Factory Design Pattern
 
