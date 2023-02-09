@@ -8,12 +8,10 @@ The Factory Method design pattern is one of the twenty-three well-known design p
 The Factory Method design pattern solves problems like:
   - How can an object be created so that subclasses can redefine which class to instantiate?
   - How can a class defer instantiation to subclasses?
-  - George Washington
-  * John Adams
-  + Thomas Jefferson
+  
 
 The Factory Method design pattern describes how to solve such problems:
 
-  Define a separate operation (factory method) for creating an object.
-  Create an object by calling a factory method.
+  - Define a separate operation (factory method) for creating an object.
+  - Create an object by calling a factory method.
 This enables writing of subclasses to change the way an object is created (to redefine which class to instantiate).
